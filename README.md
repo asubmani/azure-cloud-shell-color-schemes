@@ -3,4 +3,4 @@ This repo is a collection of userstyle color schemes for Azure Cloud Shell. Inst
 
 * Solarized Dark - [CSS](https://github.com/singhkays/azure-cloud-shell-color-schemes/blob/master/solarized-dark.css) | [UserStyle](https://userstyles.org/styles/150059/azure-cloud-shell-solarized-dark)
 
-* Onehalf Dark - [CSS](azure-cloud-shell-color-schemes/onehalf-dark.css)
+* Onehalf Dark - [CSS](onehalf-dark.css)
