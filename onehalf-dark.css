@@ -14,6 +14,9 @@
 .terminal .xterm-color-1 {
     color: #DF6C75;
 }
+.terminal .xterm-color-4 {
+    color: #2a566b;
+}
 .terminal .xterm-color-9 {
     color: #db5252;
 }
@@ -27,7 +30,7 @@
     color: #56B5C1;
 }
 .terminal .xterm-bg-color-2 {
-    background-color: #4e9a06;
+    background-color: #98C379;
 }
 .terminal .xterm-color-11 {
     color: #E4C07A;
